@@ -1,8 +1,8 @@
 ## Architecture
 - Home
-– Proyectos
+- Proyectos
 - Servicios
-– Contacto
+- Contacto
 
 ## Features
 – [Click WhatsApp button](https://faq.whatsapp.com/5913398998672934)
